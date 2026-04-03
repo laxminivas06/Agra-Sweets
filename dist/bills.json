@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "bill_id": 1775232182492,
+    "sweet": "Kaju Katli",
+    "weight": "500g",
+    "qty": 3,
+    "price": 380,
+    "total": 1140,
+    "date": "4/3/2026",
+    "time": "9:33:02 PM"
+  }
+]
