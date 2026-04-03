@@ -61,7 +61,7 @@ app.post('/api/save-bills', (req, res) => {
 app.use(express.static(DIST_DIR));
 
 // Handle React Router - server index.html for any other routes
-app.get('(.*)', (req, res) => {
+app.get(/.*/, (req, res) => {
   res.sendFile(path.join(DIST_DIR, 'index.html'));
 });
 
