@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Kaju Katli",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kaju_katli.jpg/1280px-Kaju_katli.jpg",
+    "price250": 150,
+    "price500": 300,
+    "price1000": 600,
+    "manufacture": "2026-04-03",
+    "expiry": "2026-04-10",
+    "description": "Premium diamond-shaped Indian sweet made from cashew nuts, sugar, and cardamom powder. A classic Diwali favourite and wedding staple.",
+    "video": "",
+    "qr": "kaju-katli"
+  },
+  {
+    "id": 2,
+    "name": "Kalakand",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kalakand.jpg/1280px-Kalakand.jpg",
+    "price250": 120,
+    "price500": 240,
+    "price1000": 480,
+    "manufacture": "2026-04-03",
+    "expiry": "2026-04-05",
+    "description": "Rich, moist, and grainy milk sweet made with condensed milk and cottage cheese. Soft texture with a hint of cardamom.",
+    "video": "",
+    "qr": "kalakand"
+  },
+  {
+    "id": 3,
+    "name": "Motichoor Laddu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Motichoor_Ladoo.jpg/1280px-Motichoor_Ladoo.jpg",
+    "price250": 80,
+    "price500": 160,
+    "price1000": 320,
+    "manufacture": "2026-04-02",
+    "expiry": "2026-04-08",
+    "description": "Soft, tiny drops of besan (chickpea flour) deep fried in ghee, bound with sugar syrup. Melt-in-the-mouth perfection.",
+    "video": "",
+    "qr": "motichoor-laddu"
+  },
+  {
+    "id": 4,
+    "name": "Mysore Pak",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mysore_pak.jpg/1280px-Mysore_pak.jpg",
+    "price250": 140,
+    "price500": 280,
+    "price1000": 560,
+    "manufacture": "2026-04-03",
+    "expiry": "2026-04-12",
+    "description": "A Royal Karnataka delicacy made with pure ghee, besan and sugar. Melt-in-the-mouth with a rich, buttery flavour.",
+    "video": "https://www.youtube.com/watch?v=RJoCuJFTFKI",
+    "qr": "mysore-pak"
+  }
+]
