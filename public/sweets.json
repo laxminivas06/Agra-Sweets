@@ -67,19 +67,5 @@
     "mfgDate": "2024-03-27",
     "expDate": "2024-03-28",
     "qr": "jalebi-005"
-  },
-  {
-    "id": 6,
-    "name": "Mysore Pak",
-    "description": "A legendary South Indian sweet made from roasted gram flour, generous amounts of pure desi ghee, and sugar. Rich, porous, and aromatic.",
-    "price250": 140,
-    "price500": 260,
-    "price1kg": 500,
-    "category": "Ghee",
-    "image": "/assets/sweets/mysore_pak.png",
-    "video": "",
-    "mfgDate": "2024-03-25",
-    "expDate": "2024-04-10",
-    "qr": "mysore-pak-006"
   }
 ]

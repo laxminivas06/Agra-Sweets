@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5001/api';
+const API_URL = window.location.origin === 'http://localhost:5173' || window.location.origin === 'http://localhost:5174' 
+  ? 'http://localhost:5001/api' 
+  : '/api';
 
 export const getSweets = async () => {
   try {
